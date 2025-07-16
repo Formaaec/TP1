@@ -18,7 +18,7 @@ from sklearn import model_selection
 from sklearn import metrics
  
 print('Bienvenue')
-
+print('Generation du modele')
 # In[60]:
 
 
