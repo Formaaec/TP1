@@ -17,7 +17,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn import model_selection
 from sklearn import metrics
  
-
+print('Bienvenue')
 
 # In[60]:
 
